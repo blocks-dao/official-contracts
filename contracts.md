@@ -41,6 +41,17 @@ This contract is the result of bridging BLOCKS from Ethereum over to Polygon.
 
 XBD and MBD are only available to business partners of BLOCKS DAO. DAO partners can buy BLOCKS on SushiSwap or Uniswap then deliver BLOCKS to the DAO in exchange for XBD or MBD tokens. These sidechain tokens allow for faster, cheaper transactions and provide more cost effective utility for data transactions.
 
+-------------------------------------------------------------------------------------
+
+## BLOCKS Operators and Utility Contracts
+[BLOCKS Multi Sender](https://etherscan.io/address/0xc2f5d9bd83d43ef99f1495036c94b116f032ceb1#code)
+```
+0xc2f5d9bd83d43ef99f1495036c94b116f032ceb1
+```
+This contract must be authorized as an operator. It facilitates airdrops and bulk token sends.
+
+-------------------------------------------------------------------------------------
+
 ## BLOCKS ABI
 
 [See here](https://github.com/blocks-dao/blocks-data-example/blob/main/blocksAbi.json)
