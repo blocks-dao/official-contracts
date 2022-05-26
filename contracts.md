@@ -30,12 +30,12 @@ Faucet provides 2 testnet BLOCKS tokens per day.
 ```
 -------------------------------------------------------------------------------------
 
-## Bridged BLOCKS on xDAI
-[BLOCKS on xDAI](https://blockscout.com/xdai/mainnet/token/0x1A4Ea432e58bff38873AF87bF68c525eB402aa1d/token-holders)
+## Bridged BLOCKS on Gnosis
+[BLOCKS on Gnosis](https://blockscout.com/xdai/mainnet/token/0x1A4Ea432e58bff38873AF87bF68c525eB402aa1d/token-holders)
 ```
 0x1A4Ea432e58bff38873AF87bF68c525eB402aa1d
 ```
-This contract is the result of bridging BLOCKS from Ethereum over to xDAI.
+This contract is the result of bridging BLOCKS from Ethereum over to Gnosis.
 
 ## Bridged BLOCKS on Polygon
 [BLOCKS on Polygon](https://polygonscan.com/address/0x983C0083127b9b65000E918b10d65A0F5d7500F5)
