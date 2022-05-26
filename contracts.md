@@ -7,6 +7,8 @@
 ```
 -------------------------------------------------------------------------------------
 
+## Supported Testnet Deployments
+
 [BLOCKS Rinkeby Network](https://rinkeby.etherscan.io/token/0x8a6d4c8735371ebaf8874fbd518b56edd66024eb)
 ```
 0x8a6d4c8735371ebaf8874fbd518b56edd66024eb
@@ -15,6 +17,16 @@
 Faucet provides 2 testnet BLOCKS tokens per day.
 ```
 0x48c0ce9e141f2273501cffa581b2d309a0f24fa6
+```
+
+[BLOCKS Mumbai Polygon](https://mumbai.polygonscan.com/token/0xb22c49ab042819939e4811af37bc104c4b4ece0f)
+```
+0xb22c49ab042819939e4811af37bc104c4b4ece0f
+```
+
+[BLOCK Sokol Gnosis](https://blockscout.com/poa/sokol/token/0x8a6D4C8735371EBAF8874fBd518b56Edd66024eB/token-transfers)
+```
+0x8a6D4C8735371EBAF8874fBd518b56Edd66024eB
 ```
 -------------------------------------------------------------------------------------
 
@@ -43,7 +55,11 @@ This contract is the result of bridging BLOCKS from Ethereum over to Polygon.
 
 [Binance BLOCKS Data (BBD) 0x8a6d4c8735371ebaf8874fbd518b56edd66024eb](https://www.bscscan.com/token/0x8a6d4c8735371ebaf8874fbd518b56edd66024eb)
 
+[CELO BLOCKS Data (CBD) 0x8a6d4c8735371ebaf8874fbd518b56edd66024eb](https://explorer.celo.org/token/0x8a6D4C8735371EBAF8874fBd518b56Edd66024eB/token-transfers)
+
 DAO partners can buy BLOCKS on SushiSwap or Uniswap then deposit BLOCKS to a DAO managed dashboard in exchange for API credits. These API credits facilitate fast and cost effective data transactions by using these multi-network sidechain tokens.
+
+The DAO is also following a process to decentralize access to BLOCKS Data tokens via liquidity pools. This will allow direct swapping for data tokens on the various supported networks.
 
 -------------------------------------------------------------------------------------
 
