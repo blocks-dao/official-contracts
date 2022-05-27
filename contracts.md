@@ -62,6 +62,17 @@ DAO partners can buy BLOCKS on SushiSwap or Uniswap then deposit BLOCKS to a DAO
 The DAO is also following a process to decentralize access to BLOCKS Data tokens via liquidity pools. This will allow direct swapping for data tokens on the various supported networks.
 
 -------------------------------------------------------------------------------------
+## BLOCKS Liquidity Pools
+
+[SushiSwap ETH<>BLOCKS](https://app.sushi.com/swap?inputCurrency=ETH&outputCurrency=0x8a6D4C8735371EBAF8874fBd518b56Edd66024eB)
+
+[Uniswap ETH<>BLOCKS](https://app.uniswap.org/#/swap?outputCurrency=0x8a6d4c8735371ebaf8874fbd518b56edd66024eb&chain=mainnet)
+
+[SushiSwap Polygon MATIC<>BLOCKS](https://app.sushi.com/swap?tokens=MATIC&tokens=0x983C0083127b9b65000E918b10d65A0F5d7500F5&chainId=137)
+
+## BLOCKS Data Tokens Liquidity Pools
+
+[SushiSwap Polygon BLOCKS<>MBD](https://app.sushi.com/swap?tokens=0x983C0083127b9b65000E918b10d65A0F5d7500F5&tokens=0x8a6D4C8735371EBAF8874fBd518b56Edd66024eB&chainId=137)
 
 ## BLOCKS Operators and Utility Contracts
 [BLOCKS Multi Sender](https://etherscan.io/address/0xc2f5d9bd83d43ef99f1495036c94b116f032ceb1#code)
